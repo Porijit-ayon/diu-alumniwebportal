@@ -27,13 +27,13 @@
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.4",
     "mongoose": "^6.4.0",
-    "next": "12.1.6",
+    "next": "^13.0.5",
     "next-connect": "^0.12.2",
     "nodemailer": "^6.7.8",
     "npm": "^8.19.1",
-    "react": "18.2.0",
+    "react": "^18.2.0",
     "react-animated-text": "^0.1.4",
-    "react-dom": "18.2.0",
+    "react-dom": "^18.2.0",
     "react-file-base64": "^1.0.3",
     "react-google-charts": "^4.0.0",
     "react-responsive-carousel": "^3.2.23",
@@ -47,6 +47,6 @@
   },
   "devDependencies": {
     "eslint": "8.18.0",
-    "eslint-config-next": "12.1.6"
+    "eslint-config-next": "^13.0.5"
   }
 }
