@@ -280,6 +280,7 @@ export default function ShowAlumni({ data }) {
             setSearhByEmail(false);
             setSearhByVrsty(false);
             setSearhByDep(false);
+            setSearhByCompanyName(false);
             setSearhByName(true);
           }}
         >
@@ -293,6 +294,7 @@ export default function ShowAlumni({ data }) {
             setSearhByEmail(false);
             setSearhByVrsty(false);
             setSearhByDep(false);
+            setSearhByCompanyName(false);
             setSearhByPhone(true);
           }}
         >
@@ -306,6 +308,7 @@ export default function ShowAlumni({ data }) {
             setSearhByPhone(false);
             setSearhByVrsty(false);
             setSearhByDep(false);
+            setSearhByCompanyName(false);
             setSearhByEmail(true);
           }}
         >
@@ -319,6 +322,7 @@ export default function ShowAlumni({ data }) {
             setSearhByPhone(false);
             setSearhByEmail(false);
             setSearhByDep(false);
+            setSearhByCompanyName(false);
             setSearhByVrsty(true);
           }}
         >
@@ -332,6 +336,7 @@ export default function ShowAlumni({ data }) {
             setSearhByPhone(false);
             setSearhByEmail(false);
             setSearhByVrsty(false);
+            setSearhByCompanyName(false);
             setSearhByDep(true);
           }}
         >
